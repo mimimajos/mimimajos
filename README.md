@@ -11,12 +11,7 @@ Skills: HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mimimajos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/mimimajoss)  
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Mimimajos/30-nites-of-code)  
+  ![@Mimimajos #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Mimimajos)
